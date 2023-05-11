@@ -1,0 +1,6 @@
+spotipy
+openai
+python-dotenv
+Pillow
+requests
+pybase64
