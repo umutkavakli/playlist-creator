@@ -1,3 +1,4 @@
+gradio
 spotipy
 openai
 python-dotenv

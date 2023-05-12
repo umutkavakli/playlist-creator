@@ -1,7 +1,8 @@
 # playlist-creator
 
+Wouldn't it be great if someone could find songs based on our emotions or musical taste and create a playlist for us? Well, I have developed a program that does just that!
 
-
+![](example.gif)
 
 ### Installation and Setup
 
