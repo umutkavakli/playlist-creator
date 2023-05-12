@@ -15,6 +15,7 @@ git clone https://github.com/umutkavakli/playlist-creator.git
 cd playlist-creator/
 mkdir images
 python3 -m venv song_env
+source song_env/bin/activate
 pip install -r requirements.txt
 ```
 <hr>
